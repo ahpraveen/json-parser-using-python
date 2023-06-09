@@ -1,0 +1,17 @@
+{
+    "cloud_provider_details" : [
+        {
+            "cloud" : "AWS",
+            "provider": "Amazon Web Services"
+        },
+        {
+            "cloud": "Azure",
+            "provider": "Microsoft"
+
+        },
+        {
+            "cloud": "GCP",
+            "provider": "Google"
+        }
+    ]
+}
